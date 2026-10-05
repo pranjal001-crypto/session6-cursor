@@ -1,0 +1,1 @@
+Chat (Understand-only mode) is best used for exploring code logic and asking questions without altering the file, whereas Inline Edit mode is ideal for rapidly generating and applying direct modifications to the code itself.
