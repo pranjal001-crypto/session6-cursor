@@ -1,0 +1,13 @@
+---
+description: Python coding standards for HW06
+globs: ["**/*.py"]
+alwaysApply: true
+---
+- Use descriptive variable names. Single letters are allowed only for loop counters.
+- Every function has a one-line docstring stating what it returns.
+- Use f-strings for output, never string concatenation.
+- Do not hard-code a number that is used more than once. Name it.
+- Do not add imports that are not used.
+- Do not add features that were not requested.
+- Use type hints for all function arguments and return types.
+- Avoid while loops for simple iteration; use for loops instead.
